@@ -1,6 +1,6 @@
 # Gestion des Scopes en C
 
-Ce programme en C, "Gestion des Scopes", simule la gestion d'entrepôt. Les utilisateurs peuvent ajouter, retirer des produits et afficher le stock.
+Ce programme en langage C, nommé "Gestion des Scopes", permettant aux utilisateurs d'ajouter et de supprimer des produits du stock tout en utilisant correctement les scopes de variable pour une gestion optimale de leur durée de vie.
 
 ## Fonctionnalités
 
